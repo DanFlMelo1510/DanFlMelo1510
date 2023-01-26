@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá! Eu sou o Danilo Florencio 👋
 
-<!--
-**DanFlMelo1510/DanFlMelo1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudante análise e desenvolvimento de sistemas
+- 🌱 Estudando Java-script 😎 entre outras linguagem de progamação 
+- 📧 daniloflmelo@gmail.com 
+- 😁 Em busca do primeiro estágio na aréa
+- 😍 Apaixonado por tecnologia 
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;&font=Anton&left=true&width=650&height=120&color=FFFFFF&vCenter=true&size=45%22" alt=""/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<h3>Estudando:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,linux,git,github," />
+  </a>
+</p>
